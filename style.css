@@ -72,7 +72,6 @@ h1, h2, h3, p { margin: 0; }
 .login-btn { color: #111111; background-color: transparent; }
 .signup-btn { color: #ffffff; background-color: #543EE0; }
 
-/* CSS-only hamburger */
 .nav-check { position: absolute; opacity: 0; pointer-events: none; }
 .menu-toggle {
     display: none;
